@@ -1,5 +1,5 @@
 const passwordValue=document.getElementById("password")
-const passLen=12;
+const passLen=10;
 
 const upperCase="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowercase="abcdefghijklmnopqrstuvwxyz";
